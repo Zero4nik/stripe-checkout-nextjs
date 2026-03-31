@@ -1,4 +1,5 @@
 💳 Stripe Checkout Integration
+
 https://img.shields.io/badge/Next.js-15-black?logo=next.js
 https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript
 https://img.shields.io/badge/Stripe-API-635bff?logo=stripe
