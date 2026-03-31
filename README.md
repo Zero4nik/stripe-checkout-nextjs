@@ -1,4 +1,4 @@
-💳 Stripe Checkout Integration
+
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -10,7 +10,7 @@
 Включает тесты (Vitest), обработку ошибок, страницы успеха/отмены и адаптивный дизайн.
 
 🚀 Демо
-🔗 stripe-checkout-nextjs.vercel.app
+🔗 https://stripe-checkout-nextjs-ob0eb65km-zero4niks-projects.vercel.app/
 
 🛠️ Технологии
 Next.js 15 (App Router)
