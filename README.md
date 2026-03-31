@@ -43,13 +43,6 @@ npm run test:run      # однократный запуск
 npm run test          # просмотр
 
 
-📁 Структура проекта
-app/
-├── api/create-payment/route.ts   # API эндпоинт Stripe
-├── components/PaymentButton.tsx  # Кнопка оплаты
-├── success/page.tsx              # Страница успеха (Suspense)
-├── cancel/page.tsx               # Страница отмены
-└── page.tsx                      # Главная страница
 
 💳 Тестовая карта
 Для тестовых платежей используй карту Stripe:
