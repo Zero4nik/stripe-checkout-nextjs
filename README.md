@@ -1,10 +1,10 @@
 💳 Stripe Checkout Integration
 
-https://img.shields.io/badge/Next.js-15-black?logo=next.js
-https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript
-https://img.shields.io/badge/Stripe-API-635bff?logo=stripe
-https://img.shields.io/badge/tests-7%2520passed-brightgreen
-https://img.shields.io/badge/Deployed%2520on-Vercel-000000?logo=vercel
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Stripe](https://img.shields.io/badge/Stripe-API-635bff?logo=stripe)](https://stripe.com)
+[![Tests](https://img.shields.io/badge/tests-7%20passed-brightgreen)]()
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel)](https://vercel.com)
 
 Демонстрационный проект интеграции Stripe Checkout с Next.js App Router.
 Включает тесты (Vitest), обработку ошибок, страницы успеха/отмены и адаптивный дизайн.
